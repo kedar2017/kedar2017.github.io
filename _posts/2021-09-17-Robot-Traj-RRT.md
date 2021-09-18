@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dynamic Rapidly Random exploration Trees (RRT)
-subtitle: RRT for handling dynamic obstacles
+title: RRT for robot trajectories planning 
+subtitle: Multi-axis robot arms planning
 tags: [math, tech]
 ---
 
