@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
-subtitle: as crazy as it sounds...
+title: Dynamic Rapidly Random exploration Trees (RRT)
+subtitle: RRT for handling dynamic obstacles
 tags: [math, tech]
 ---
 
