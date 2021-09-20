@@ -20,5 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Timepass"
-   absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+ - name: "LinkedIn"
+   absolute-link: "https://www.linkedin.com/in/kedar-joshi-b0860298/"
